@@ -1,0 +1,16 @@
+server:
+  host: 127.0.0.1
+  port: 8081
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  database: telegram
+  username: bot
+  password: bot9527@#
+  charset: utf8mb4
+  loc: Local
+redis:
+  host: 127.0.0.1
+  port: 6379
+debug: true
+chain_rpc: https://bsc-testnet.public.blastapi.io

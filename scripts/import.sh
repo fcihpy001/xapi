@@ -1,0 +1,9 @@
+go get github.com/gin-gonic/gin
+go get gopkg.in/yaml.v3
+go get gorm.io/gorm
+go get gorm.io/driver/mysql
+go get gorm.io/gorm/schema
+go get github.com/golang-jwt/jwt/v4
+go get github.com/joho/godotenv
+go get github.com/redis/go-redis/v9
+go get github.com/swaggo/swag
